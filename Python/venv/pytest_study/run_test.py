@@ -13,11 +13,11 @@ if __name__ == '__main__':
     # pytest.main([test_dir,'--pastebin=all'])
 
     #运行并成HTML测试报告,失败重跑3次
-    # report_name = './report/' + now_time + 'result.html'
-    # pytest.main(['-v','--html='+report_name,'--reruns','3'])
+    report_name = './report/' + now_time + 'result.html'
+    pytest.main(['-v','--html='+report_name,'--reruns','3'])
 
     #运行所有
-    pytest.main(['-s'])
+    # pytest.main(['-s'])
 
     #parallel多线程运行
     # pytest.main(['./test_case/test_parallel.py','--test-per-worker','auto'])
