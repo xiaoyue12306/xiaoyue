@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="904aca50-f9d8-483d-8e7b-35e1c1705b12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pytest_study/pyautoTest" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1xoUduFpVZMN9NkoIOgcwGOFU6J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/unittest_study/test_case/test_bing_PageObject.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xy\Desktop\xy\Python\venv\Selenium Server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xy\Desktop\xy\Python\venv\pytest_study\test_btest" />
+      <recent name="C:\Users\xy\Desktop\xy\Python\venv\pytest_study\page" />
+      <recent name="C:\Users\xy\Desktop\xy\Python\venv\pytest_study\test_project" />
+      <recent name="C:\Users\xy\Desktop\xy\Python\venv\pytest_study\test_case" />
+      <recent name="C:\Users\xy\Desktop\xy\Python\venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_test">
+    <configuration name="run_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="venv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytest_study/run_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_bing_data.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="venv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\xy\Desktop\xy\Python\venv\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest_study/test_case" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unittest_study/test_case/test_bing_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_bing_parameterized.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="venv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\xy\Desktop\xy\Python\venv\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest_study/test_case" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unittest_study/test_case/test_bing_parameterized.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_bing.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="venv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\xy\Desktop\xy\Python\venv\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unittest_study/test_case/test_bing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_bing_search_PageObject" type="PythonConfigurationType" factoryName="Python">
+      <module name="venv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\xy\Desktop\xy\Python\venv\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest_study/test_case" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unittest_study/test_case/test_bing_PageObject.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for pytest_study.test_case.test_fixtures_01.TestMultilpyy" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="venv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;pytest_study.test_case.test_fixtures_01.TestMultilpyy&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for pytest_study.test_case.test_fixtures_01.TestMultilpyy.test_multiply1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="venv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;pytest_study.test_case.test_fixtures_01.TestMultilpyy.test_multiply1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for pytest_study.test_case.test_fixtures_01.TestMultilpyy.test_multiply2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="venv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;pytest_study.test_case.test_fixtures_01.TestMultilpyy.test_multiply2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_parametrize.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="venv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytest_study/test_case/test_parametrize.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test_bing_search_PageObject" />
+      <item itemvalue="Python.test_bing_parameterized.py" />
+      <item itemvalue="Python.test_bing_data.py" />
+      <item itemvalue="Python.test_bing.py" />
+      <item itemvalue="Python.run_test" />
+      <item itemvalue="Python tests.pytest in test_parametrize.py" />
+      <item itemvalue="Python tests.pytest for pytest_study.test_case.test_fixtures_01.TestMultilpyy.test_multiply2" />
+      <item itemvalue="Python tests.pytest for pytest_study.test_case.test_fixtures_01.TestMultilpyy.test_multiply1" />
+      <item itemvalue="Python tests.pytest for pytest_study.test_case.test_fixtures_01.TestMultilpyy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_test" />
+        <item itemvalue="Python tests.pytest in test_parametrize.py" />
+        <item itemvalue="Python tests.pytest for pytest_study.test_case.test_fixtures_01.TestMultilpyy" />
+        <item itemvalue="Python tests.pytest for pytest_study.test_case.test_fixtures_01.TestMultilpyy.test_multiply1" />
+        <item itemvalue="Python tests.pytest for pytest_study.test_case.test_fixtures_01.TestMultilpyy.test_multiply2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="904aca50-f9d8-483d-8e7b-35e1c1705b12" name="Default Changelist" comment="" />
+      <created>1631021026047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631021026047</updated>
+      <workItem from="1631021027105" duration="1344000" />
+      <workItem from="1631022734581" duration="570000" />
+      <workItem from="1631023317502" duration="993000" />
+      <workItem from="1631101624197" duration="4544000" />
+      <workItem from="1631190613733" duration="1987000" />
+      <workItem from="1631441220672" duration="6278000" />
+      <workItem from="1631539794370" duration="2006000" />
+      <workItem from="1631715089681" duration="597000" />
+      <workItem from="1632397215679" duration="3232000" />
+      <workItem from="1632654852064" duration="81000" />
+      <workItem from="1632654941269" duration="737000" />
+      <workItem from="1633610841342" duration="66000" />
+      <workItem from="1633610917759" duration="52000" />
+      <workItem from="1633610977310" duration="605000" />
+      <workItem from="1638701731447" duration="11000" />
+      <workItem from="1638701749936" duration="604000" />
+      <workItem from="1638961255398" duration="4574000" />
+      <workItem from="1639058914665" duration="1178000" />
+      <workItem from="1639199422726" duration="80000" />
+      <workItem from="1639199510413" duration="5007000" />
+      <workItem from="1639222948065" duration="1047000" />
+      <workItem from="1639224142660" duration="6637000" />
+      <workItem from="1639289823065" duration="7429000" />
+      <workItem from="1639397654666" duration="3529000" />
+      <workItem from="1639661423112" duration="1196000" />
+      <workItem from="1639896234661" duration="7000" />
+      <workItem from="1640091860055" duration="6113000" />
+      <workItem from="1640179685301" duration="3075000" />
+      <workItem from="1640345391247" duration="480000" />
+      <workItem from="1640412098813" duration="10042000" />
+      <workItem from="1640485534169" duration="9430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/venv$mail_yag.coverage" NAME="mail_yag Coverage Results" MODIFIED="1640092866439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study" />
+    <SUITE FILE_PATH="coverage/venv$pytest_in_test_assert_py.coverage" NAME="pytest in test_assert.py Coverage Results" MODIFIED="1640423974760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest_study" />
+    <SUITE FILE_PATH="coverage/venv$pytest_for_test_bing_TestBing_test_search.coverage" NAME="pytest for test_bing.TestBing.test_search Coverage Results" MODIFIED="1639222958908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study/test_case" />
+    <SUITE FILE_PATH="coverage/venv$test_bing_data_py.coverage" NAME="test_bing_data.py Coverage Results" MODIFIED="1639398706257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study/test_case" />
+    <SUITE FILE_PATH="coverage/venv$pytest_in_test_parameterrize_py.coverage" NAME="pytest in test_parameterrize.py Coverage Results" MODIFIED="1631441584039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest_study" />
+    <SUITE FILE_PATH="coverage/venv$pytest_in_test_calculator_py.coverage" NAME="pytest in test_calculator.py Coverage Results" MODIFIED="1639201427373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study/test_case" />
+    <SUITE FILE_PATH="coverage/venv$pytest_in_test_fixtures_01_py.coverage" NAME="pytest in test_fixtures_01.py Coverage Results" MODIFIED="1640430914166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest_study" />
+    <SUITE FILE_PATH="coverage/venv$runtest.coverage" NAME="runtest Coverage Results" MODIFIED="1631023035292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_yzd_class" />
+    <SUITE FILE_PATH="coverage/venv$pytest_for_test_class_ClassTest_test_search.coverage" NAME="pytest for test_class.ClassTest.test_search Coverage Results" MODIFIED="1639200287243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_yzd_class/test_case" />
+    <SUITE FILE_PATH="coverage/venv$pytest_for_test_bing_parameterized_TestBing.coverage" NAME="pytest for test_bing_parameterized.TestBing Coverage Results" MODIFIED="1639400276317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study/test_case" />
+    <SUITE FILE_PATH="coverage/venv$pytest_for_test_bing_data_TestBing.coverage" NAME="pytest for test_bing_data.TestBing Coverage Results" MODIFIED="1639398155840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study/test_case" />
+    <SUITE FILE_PATH="coverage/venv$test_bing_py.coverage" NAME="test_bing.py Coverage Results" MODIFIED="1639226143189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/venv$pytest_for_test_class_ClassTest.coverage" NAME="pytest for test_class.ClassTest Coverage Results" MODIFIED="1639201243152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_yzd_class/test_case" />
+    <SUITE FILE_PATH="coverage/venv$run_tests.coverage" NAME="run_tests Coverage Results" MODIFIED="1631541598271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest_study/pyautoTest" />
+    <SUITE FILE_PATH="coverage/venv$pytest_in_test_bing_py.coverage" NAME="pytest in test_bing.py Coverage Results" MODIFIED="1639220165750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study/test_case" />
+    <SUITE FILE_PATH="coverage/venv$test_bing.coverage" NAME="test_bing Coverage Results" MODIFIED="1639223334067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study/test_case" />
+    <SUITE FILE_PATH="coverage/venv$pytest_for_test_class_ClassTest_test_skip.coverage" NAME="pytest for test_class.ClassTest.test_skip Coverage Results" MODIFIED="1639201366435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_yzd_class/test_case" />
+    <SUITE FILE_PATH="coverage/venv$bing_page.coverage" NAME="bing_page Coverage Results" MODIFIED="1640097565455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study/test_case" />
+    <SUITE FILE_PATH="coverage/venv$pytest_for_test_fixtures_01_TestMultilpyy_test_multiply1.coverage" NAME="pytest for test_fixtures_01.TestMultilpyy.test_multiply1 Coverage Results" MODIFIED="1640431090084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest_study" />
+    <SUITE FILE_PATH="coverage/venv$pytest_in_test_parameterize_py.coverage" NAME="pytest in test_parametrize.py Coverage Results" MODIFIED="1640432231719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest_study" />
+    <SUITE FILE_PATH="coverage/venv$pytest_in_test_sample_py.coverage" NAME="pytest in test_sample.py Coverage Results" MODIFIED="1640182746623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest_study" />
+    <SUITE FILE_PATH="coverage/venv$pytest_for_test_second_Test_second_test_second.coverage" NAME="pytest for test_second.Test_second.test_second Coverage Results" MODIFIED="1638968400229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study/test_case/test_second" />
+    <SUITE FILE_PATH="coverage/venv$pytest_for_test_fixtures_01_TestMultilpyy_test_multiply2.coverage" NAME="pytest for test_fixtures_01.TestMultilpyy.test_multiply2 Coverage Results" MODIFIED="1640431070419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest_study" />
+    <SUITE FILE_PATH="coverage/venv$test.coverage" NAME="test Coverage Results" MODIFIED="1631112353326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resource_management_sys" />
+    <SUITE FILE_PATH="coverage/venv$test_bing_search_PageObject.coverage" NAME="test_bing_search_PageObject Coverage Results" MODIFIED="1640181808906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study/test_case" />
+    <SUITE FILE_PATH="coverage/venv$pytest_for_test_calculator_TestCalculator_test_mul.coverage" NAME="pytest for test_calculator.TestCalculator.test_mul Coverage Results" MODIFIED="1638968478478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study/test_case" />
+    <SUITE FILE_PATH="coverage/venv$run_test__1_.coverage" NAME="run_test (1) Coverage Results" MODIFIED="1639200601895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study" />
+    <SUITE FILE_PATH="coverage/venv$pytest_for_test_calculator_TestCalculator_test_add.coverage" NAME="pytest for test_calculator.TestCalculator.test_add Coverage Results" MODIFIED="1639223348607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study/test_case" />
+    <SUITE FILE_PATH="coverage/venv$test_bing_parameterized_py.coverage" NAME="test_bing_parameterized.py Coverage Results" MODIFIED="1639400413852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study/test_case" />
+    <SUITE FILE_PATH="coverage/venv$pytest_for_test_assert_test_in_2.coverage" NAME="pytest for test_assert.test_in_2 Coverage Results" MODIFIED="1640423714657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest_study" />
+    <SUITE FILE_PATH="coverage/venv$run_test.coverage" NAME="run_test Coverage Results" MODIFIED="1640509250286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest_study" />
+    <SUITE FILE_PATH="coverage/venv$pytest_for_test_bing_data_TestBing_test_search_a.coverage" NAME="pytest for test_bing_data.TestBing.test_search_a Coverage Results" MODIFIED="1639398245607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_study/test_case" />
+    <SUITE FILE_PATH="coverage/venv$pytest_in_test_ss_study_py.coverage" NAME="pytest in test_ss_study.py Coverage Results" MODIFIED="1632400307432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest_study" />
+    <SUITE FILE_PATH="coverage/venv$pytest_for_test_fixtures_01_TestMultilpyy.coverage" NAME="pytest for test_fixtures_01.TestMultilpyy Coverage Results" MODIFIED="1640431217735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytest_study" />
+  </component>
+</project>

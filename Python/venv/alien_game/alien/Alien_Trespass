@@ -1,0 +1,34 @@
+import sys
+import pygame
+from settings import Settings
+from ship import Ship
+import game_functions as gf
+from bullet import Bullet
+from pygame.sprite import Group
+from alien import Alien
+
+
+def run_game():
+    pygame.init()
+    settings=Settings()
+    screen = pygame.display.set_mode((settings.screen_width,settings.screen_height))
+    pygame.display.set_caption("LUNA大战外星人")
+    bg_color=settings.bg_color
+    alien=Alien(settings,screen)
+    # 创建一艘飞船
+    ship=Ship(screen,settings)
+    # 存储子弹的编组
+    bullets=Group()
+    aliens=Group()
+    gf.create_fleet(settings,screen,aliens)
+    while True:
+        # 监听鼠标键盘
+        gf.check_events(settings,screen,ship,bullets)
+        ship.update()
+        bullets.update()
+        # 移除超出屏幕的子弹
+        Bullet.remove_bullet(bullets)
+        # print(len(bullets))
+        gf.update_screen(settings,screen,ship,aliens,bullets)
+
+run_game()

@@ -1,0 +1,938 @@
+1639200602095	geckodriver	INFO	Listening on 127.0.0.1:52244
+1639200605138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileO7wmgj"
+1639200605375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileO7wmgj\\search.json.mozlz4", (void 0)))
+1639200606257	Marionette	INFO	Listening on port 52254
+1639200606670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639200615660	Marionette	INFO	Stopped listening on port 52254
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639226215758	geckodriver	INFO	Listening on 127.0.0.1:56561
+1639226218803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileM4HqcE"
+1639226219030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileM4HqcE\\search.json.mozlz4", (void 0)))
+1639226219969	Marionette	INFO	Listening on port 56569
+1639226220342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639226222757	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639226226823	Marionette	INFO	Stopped listening on port 56569
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639226277106	geckodriver	INFO	Listening on 127.0.0.1:56607
+1639226280155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileGQag3n"
+1639226280382	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileGQag3n\\search.json.mozlz4", (void 0)))
+1639226281198	Marionette	INFO	Listening on port 56616
+1639226281695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639226285282	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639226288217	Marionette	INFO	Stopped listening on port 56616
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639226357256	geckodriver	INFO	Listening on 127.0.0.1:56664
+1639226360290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilePABMET"
+1639226360523	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilePABMET\\search.json.mozlz4", (void 0)))
+1639226361427	Marionette	INFO	Listening on port 56672
+1639226361832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639226364200	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639226368485	Marionette	INFO	Stopped listening on port 56672
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639227797886	geckodriver	INFO	Listening on 127.0.0.1:56889
+1639227800923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile8jat4z"
+1639227801148	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile8jat4z\\search.json.mozlz4", (void 0)))
+1639227802045	Marionette	INFO	Listening on port 56897
+1639227802454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639227807022	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639227811196	Marionette	INFO	Stopped listening on port 56897
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639227869365	geckodriver	INFO	Listening on 127.0.0.1:56949
+1639227872429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile5yR8BS"
+1639227872654	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile5yR8BS\\search.json.mozlz4", (void 0)))
+1639227873560	Marionette	INFO	Listening on port 56957
+1639227873974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639227876603	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639227880868	Marionette	INFO	Stopped listening on port 56957
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639228027375	geckodriver	INFO	Listening on 127.0.0.1:57099
+1639228030409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileGOFmt9"
+1639228030642	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileGOFmt9\\search.json.mozlz4", (void 0)))
+1639228031457	Marionette	INFO	Listening on port 57107
+1639228031943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639228034755	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639228038718	Marionette	INFO	Stopped listening on port 57107
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639228156537	geckodriver	INFO	Listening on 127.0.0.1:57151
+1639228159568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile9zaD9D"
+1639228159802	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile9zaD9D\\search.json.mozlz4", (void 0)))
+1639228160685	Marionette	INFO	Listening on port 57160
+1639228161112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639228163461	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639228167720	Marionette	INFO	Stopped listening on port 57160
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639228168258	geckodriver	INFO	Listening on 127.0.0.1:57213
+1639228171290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileHlP19c"
+1639228171519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileHlP19c\\search.json.mozlz4", (void 0)))
+1639228172414	Marionette	INFO	Listening on port 57221
+1639228172823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639228175772	Marionette	INFO	Stopped listening on port 57221
+[Parent 12692, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639228199359	geckodriver	INFO	Listening on 127.0.0.1:57270
+1639228202409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilehUv0H8"
+1639228202636	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilehUv0H8\\search.json.mozlz4", (void 0)))
+1639228203437	Marionette	INFO	Listening on port 57278
+1639228203951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639228206457	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639228210631	Marionette	INFO	Stopped listening on port 57278
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639228211165	geckodriver	INFO	Listening on 127.0.0.1:57326
+1639228214178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileJPQnnz"
+1639228214414	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileJPQnnz\\search.json.mozlz4", (void 0)))
+1639228215267	Marionette	INFO	Listening on port 57337
+1639228215730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639228223836	Marionette	INFO	Stopped listening on port 57337
+[Parent 12728, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639228409951	geckodriver	INFO	Listening on 127.0.0.1:57411
+1639228412986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile8v5sFF"
+1639228413212	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile8v5sFF\\search.json.mozlz4", (void 0)))
+1639228414108	Marionette	INFO	Listening on port 57421
+1639228414526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639228417235	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639228421245	Marionette	INFO	Stopped listening on port 57421
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639228421785	geckodriver	INFO	Listening on 127.0.0.1:57469
+1639228424804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilei4NmJD"
+1639228425029	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilei4NmJD\\search.json.mozlz4", (void 0)))
+1639228425913	Marionette	INFO	Listening on port 57477
+1639228426340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639228433585	Marionette	INFO	Stopped listening on port 57477
+[Parent 16200, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:542
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639228472191	geckodriver	INFO	Listening on 127.0.0.1:57523
+1639228475219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileeGdTne"
+1639228475448	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileeGdTne\\search.json.mozlz4", (void 0)))
+1639228476352	Marionette	INFO	Listening on port 57533
+1639228476755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639228479131	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639228483266	Marionette	INFO	Stopped listening on port 57533
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639228483799	geckodriver	INFO	Listening on 127.0.0.1:57572
+1639228486823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileZQl9bx"
+1639228487052	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileZQl9bx\\search.json.mozlz4", (void 0)))
+1639228487984	Marionette	INFO	Listening on port 57580
+1639228488358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639228497768	Marionette	INFO	Stopped listening on port 57580
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639228618681	geckodriver	INFO	Listening on 127.0.0.1:57639
+1639228621707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile06YZDl"
+1639228621938	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile06YZDl\\search.json.mozlz4", (void 0)))
+1639228622758	Marionette	INFO	Listening on port 57650
+1639228623241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1639228631843	Marionette	INFO	Stopped listening on port 57650
+[Parent 14488, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639228702185	geckodriver	INFO	Listening on 127.0.0.1:57694
+1639228705232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile8BGSE2"
+1639228705460	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile8BGSE2\\search.json.mozlz4", (void 0)))
+1639228706293	Marionette	INFO	Listening on port 57702
+1639228706766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639228715033	Marionette	INFO	Stopped listening on port 57702
+[Parent 12564, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639229224483	geckodriver	INFO	Listening on 127.0.0.1:57934
+1639229227505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileRVIowY"
+1639229227756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileRVIowY\\search.json.mozlz4", (void 0)))
+1639229228617	Marionette	INFO	Listening on port 57943
+1639229229052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1639229237548	Marionette	INFO	Stopped listening on port 57943
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639229274060	geckodriver	INFO	Listening on 127.0.0.1:57996
+1639229277099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileFUa91L"
+1639229277332	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileFUa91L\\search.json.mozlz4", (void 0)))
+1639229278269	Marionette	INFO	Listening on port 58005
+1639229278640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639229289578	Marionette	INFO	Stopped listening on port 58005
+[Parent 6556, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639229335167	geckodriver	INFO	Listening on 127.0.0.1:58059
+1639229338221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilefm3FrK"
+1639229338449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilefm3FrK\\search.json.mozlz4", (void 0)))
+1639229339400	Marionette	INFO	Listening on port 58068
+1639229339761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639229352367	Marionette	INFO	Stopped listening on port 58068
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639229485563	geckodriver	INFO	Listening on 127.0.0.1:58127
+1639229488586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileqXy64M"
+1639229488819	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileqXy64M\\search.json.mozlz4", (void 0)))
+1639229489728	Marionette	INFO	Listening on port 58135
+1639229490125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639229503218	Marionette	INFO	Stopped listening on port 58135
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639229510959	geckodriver	INFO	Listening on 127.0.0.1:58202
+1639229514007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilekkl0ku"
+1639229514235	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilekkl0ku\\search.json.mozlz4", (void 0)))
+1639229515164	Marionette	INFO	Listening on port 58213
+1639229515539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639229528066	Marionette	INFO	Stopped listening on port 58213
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639229903804	geckodriver	INFO	Listening on 127.0.0.1:58375
+1639229906838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileyf9i4X"
+1639229907069	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileyf9i4X\\search.json.mozlz4", (void 0)))
+1639229907879	Marionette	INFO	Listening on port 58383
+1639229908377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639229921074	Marionette	INFO	Stopped listening on port 58383
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639290238665	geckodriver	INFO	Listening on 127.0.0.1:59676
+1639290241713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilenM0FKS"
+1639290241962	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilenM0FKS\\search.json.mozlz4", (void 0)))
+1639290242810	Marionette	INFO	Listening on port 59686
+1639290243274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639290256020	Marionette	INFO	Stopped listening on port 59686
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639290655560	geckodriver	INFO	Listening on 127.0.0.1:59778
+1639290658601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile6FWITG"
+1639290658815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile6FWITG\\search.json.mozlz4", (void 0)))
+1639290659629	Marionette	INFO	Listening on port 59788
+1639290659643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1639290671061	Marionette	INFO	Stopped listening on port 59788
+[Parent 1416, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639290726252	geckodriver	INFO	Listening on 127.0.0.1:59862
+1639290729278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile4I9QUL"
+1639290729495	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile4I9QUL\\search.json.mozlz4", (void 0)))
+1639290730327	Marionette	INFO	Listening on port 59870
+1639290730823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639290741764	Marionette	INFO	Stopped listening on port 59870
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639290933837	geckodriver	INFO	Listening on 127.0.0.1:60014
+1639290936876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilekWN3zN"
+1639290937093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilekWN3zN\\search.json.mozlz4", (void 0)))
+1639290937971	Marionette	INFO	Listening on port 60025
+1639290938410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639290949678	Marionette	INFO	Stopped listening on port 60025
+[Parent 15320, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639291018775	geckodriver	INFO	Listening on 127.0.0.1:60088
+1639291021832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileuKErgg"
+1639291022059	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileuKErgg\\search.json.mozlz4", (void 0)))
+1639291022978	Marionette	INFO	Listening on port 60096
+1639291023365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639291035763	Marionette	INFO	Stopped listening on port 60096
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639291058830	geckodriver	INFO	Listening on 127.0.0.1:60151
+1639291061878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilevafTLK"
+1639291062093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilevafTLK\\search.json.mozlz4", (void 0)))
+1639291062907	Marionette	INFO	Listening on port 60159
+1639291063413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639291074829	Marionette	INFO	Stopped listening on port 60159
+[Parent 1580, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639291491164	geckodriver	INFO	Listening on 127.0.0.1:60279
+1639291494226	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileNCf5eF"
+1639291494444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileNCf5eF\\search.json.mozlz4", (void 0)))
+1639291495335	Marionette	INFO	Listening on port 60289
+1639291495764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639291506815	Marionette	INFO	Stopped listening on port 60289
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639291526118	geckodriver	INFO	Listening on 127.0.0.1:60335
+1639291529177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileYpDJFR"
+1639291529393	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileYpDJFR\\search.json.mozlz4", (void 0)))
+1639291530302	Marionette	INFO	Listening on port 60343
+1639291530715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639291541552	Marionette	INFO	Stopped listening on port 60343
+[Parent 9624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639291627025	geckodriver	INFO	Listening on 127.0.0.1:60403
+1639291630082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileH7Au58"
+1639291630298	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileH7Au58\\search.json.mozlz4", (void 0)))
+1639291631123	Marionette	INFO	Listening on port 60411
+1639291631615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1639291643417	Marionette	INFO	Stopped listening on port 60411
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639291660097	geckodriver	INFO	Listening on 127.0.0.1:60464
+1639291663149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileYHCYy7"
+1639291663366	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileYHCYy7\\search.json.mozlz4", (void 0)))
+1639291664169	Marionette	INFO	Listening on port 60472
+1639291664188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639291675067	Marionette	INFO	Stopped listening on port 60472
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639292432829	geckodriver	INFO	Listening on 127.0.0.1:60597
+1639292435857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileRO4QMt"
+1639292436076	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileRO4QMt\\search.json.mozlz4", (void 0)))
+1639292436972	Marionette	INFO	Listening on port 60606
+1639292437412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639292454924	Marionette	INFO	Stopped listening on port 60606
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639292524831	geckodriver	INFO	Listening on 127.0.0.1:60669
+1639292527886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile3EEBQn"
+1639292528104	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile3EEBQn\\search.json.mozlz4", (void 0)))
+1639292528931	Marionette	INFO	Listening on port 60677
+1639292529434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639292547135	Marionette	INFO	Stopped listening on port 60677
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639314886183	geckodriver	INFO	Listening on 127.0.0.1:61110
+1639314889238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileTWyOiW"
+1639314889477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileTWyOiW\\search.json.mozlz4", (void 0)))
+1639314890268	Marionette	INFO	Listening on port 61119
+1639314890771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639314904433	Marionette	INFO	Stopped listening on port 61119
+[Parent 996, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639315033771	geckodriver	INFO	Listening on 127.0.0.1:61193
+1639315036821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileY5JOZk"
+1639315037039	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileY5JOZk\\search.json.mozlz4", (void 0)))
+1639315037866	Marionette	INFO	Listening on port 61202
+1639315038355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639315053313	Marionette	INFO	Stopped listening on port 61202
+[Parent 3940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639315071914	geckodriver	INFO	Listening on 127.0.0.1:61255
+1639315074949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileEo32G0"
+1639315075165	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileEo32G0\\search.json.mozlz4", (void 0)))
+1639315075976	Marionette	INFO	Listening on port 61263
+1639315076483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639315092359	Marionette	INFO	Stopped listening on port 61263
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639315242929	geckodriver	INFO	Listening on 127.0.0.1:61349
+1639315245955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileMC8PAP"
+1639315246174	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileMC8PAP\\search.json.mozlz4", (void 0)))
+1639315247038	Marionette	INFO	Listening on port 61357
+1639315247490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639315263251	Marionette	INFO	Stopped listening on port 61357
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639315365912	geckodriver	INFO	Listening on 127.0.0.1:61421
+1639315368940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile73hWGn"
+1639315369158	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile73hWGn\\search.json.mozlz4", (void 0)))
+1639315370002	Marionette	INFO	Listening on port 61432
+1639315370472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639315384374	Marionette	INFO	Stopped listening on port 61432
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639315518085	geckodriver	INFO	Listening on 127.0.0.1:61505
+1639315521115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilej3SMyQ"
+1639315521333	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilej3SMyQ\\search.json.mozlz4", (void 0)))
+1639315522249	Marionette	INFO	Listening on port 61515
+1639315522651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639315538839	Marionette	INFO	Stopped listening on port 61515
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639317712318	geckodriver	INFO	Listening on 127.0.0.1:61745
+1639317715366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile43b2jw"
+1639317715600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile43b2jw\\search.json.mozlz4", (void 0)))
+1639317716532	Marionette	INFO	Listening on port 61753
+1639317716906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639317732908	Marionette	INFO	Stopped listening on port 61753
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639317851831	geckodriver	INFO	Listening on 127.0.0.1:61812
+1639317854895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileVmHF8N"
+1639317855113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileVmHF8N\\search.json.mozlz4", (void 0)))
+1639317855926	Marionette	INFO	Listening on port 61820
+1639317856427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639317872818	Marionette	INFO	Stopped listening on port 61820
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639375024414	geckodriver	INFO	Listening on 127.0.0.1:65503
+1639375027456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilesI1oB7"
+1639375027952	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilesI1oB7\\search.json.mozlz4", (void 0)))
+1639375031935	Marionette	INFO	Listening on port 65511
+1639375033156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 10972, MediaDecoderStateMachine #1] WARNING: Decoder=18ef4b15700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:367
+[Child 10972, MediaDecoderStateMachine #1] WARNING: Decoder=18ef4b15700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3568
+[Child 10972, MediaDecoderStateMachine #1] WARNING: Decoder=18ef4b6b600 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:367
+[Child 10972, MediaDecoderStateMachine #1] WARNING: Decoder=18ef4b6b600 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3568
+1639375043358	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639375047780	Marionette	INFO	Stopped listening on port 65511
+[Parent 5124, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639375049160	geckodriver	INFO	Listening on 127.0.0.1:49177
+1639375052219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileG2Sfv0"
+1639375052576	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileG2Sfv0\\search.json.mozlz4", (void 0)))
+1639375056221	Marionette	INFO	Listening on port 49185
+1639375057339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639375076991	Marionette	INFO	Stopped listening on port 49185
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639377586873	geckodriver	INFO	Listening on 127.0.0.1:49510
+1639377589978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileMK6J07"
+1639377590345	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileMK6J07\\search.json.mozlz4", (void 0)))
+1639377594102	Marionette	INFO	Listening on port 49518
+1639377594231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639377598371	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639377602629	Marionette	INFO	Stopped listening on port 49518
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639377604603	geckodriver	INFO	Listening on 127.0.0.1:49560
+1639377607691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileFPzXvm"
+1639377608145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileFPzXvm\\search.json.mozlz4", (void 0)))
+1639377611457	Marionette	INFO	Listening on port 49568
+1639377612822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639377629531	Marionette	INFO	Stopped listening on port 49568
+1639382948777	geckodriver	INFO	Listening on 127.0.0.1:50555
+1639382951860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileBAK4VX"
+1639382952295	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileBAK4VX\\search.json.mozlz4", (void 0)))
+1639382955803	Marionette	INFO	Listening on port 50565
+1639382956796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639382960238	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639382964091	Marionette	INFO	Stopped listening on port 50565
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  TypeError
+1639382967024	geckodriver	INFO	Listening on 127.0.0.1:50608
+1639382970122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileM3QYn3"
+1639382970763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileM3QYn3\\search.json.mozlz4", (void 0)))
+1639382974779	Marionette	INFO	Listening on port 50616
+1639382975662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639382993952	Marionette	INFO	Stopped listening on port 50616
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639536803137	geckodriver	INFO	Listening on 127.0.0.1:64109
+1639536806172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilewde5z0"
+1639536806534	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilewde5z0\\search.json.mozlz4", (void 0)))
+1639536810427	Marionette	INFO	Listening on port 64119
+1639536811399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639536814428	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639536818667	Marionette	INFO	Stopped listening on port 64119
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639536820033	geckodriver	INFO	Listening on 127.0.0.1:64166
+1639536823093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilejIc14T"
+1639536823458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilejIc14T\\search.json.mozlz4", (void 0)))
+1639536827595	Marionette	INFO	Listening on port 64175
+1639536827935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639536920555	Marionette	INFO	Stopped listening on port 64175
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+36832603	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilencaDrR\\search.json.mozlz4", (void 0)))
+1639536837471	Marionette	INFO	Listening on port 64210
+1639536839313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639536842626	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639536857255	Marionette	INFO	Stopped listening on port 64210
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639536858689	geckodriver	INFO	Listening on 127.0.0.1:64286
+1639536861763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileQh4RLI"
+1639536862041	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileQh4RLI\\search.json.mozlz4", (void 0)))
+1639536865712	Marionette	INFO	Listening on port 64295
+1639536866178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639536880712	Marionette	INFO	Stopped listening on port 64295
+[Parent 21864, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639537566376	geckodriver	INFO	Listening on 127.0.0.1:64685
+1639537569452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilekR0UqY"
+1639537569814	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilekR0UqY\\search.json.mozlz4", (void 0)))
+1639537573400	Marionette	INFO	Listening on port 64695
+1639537574411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639537577540	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639537581805	Marionette	INFO	Stopped listening on port 64695
+[Parent 5376, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1639537583241	geckodriver	INFO	Listening on 127.0.0.1:64740
+1639537586318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileoBVrVv"
+1639537586565	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileoBVrVv\\search.json.mozlz4", (void 0)))
+1639537590274	Marionette	INFO	Listening on port 64754
+1639537591292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639537708245	Marionette	INFO	Stopped listening on port 64754
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+37595464	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileKTq7Iv\\search.json.mozlz4", (void 0)))
+1639537599249	Marionette	INFO	Listening on port 64793
+1639537600226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639537603507	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639537617685	Marionette	INFO	Stopped listening on port 64793
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639537619753	geckodriver	INFO	Listening on 127.0.0.1:64871
+1639537622832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileRzRkBv"
+1639537623354	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileRzRkBv\\search.json.mozlz4", (void 0)))
+1639537626865	Marionette	INFO	Listening on port 64879
+1639537627801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639537630681	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639537637102	Marionette	INFO	Stopped listening on port 64879
+[Parent 4996, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1639537639155	geckodriver	INFO	Listening on 127.0.0.1:64940
+1639537642225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileO7FwOS"
+1639537642635	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileO7FwOS\\search.json.mozlz4", (void 0)))
+1639537646414	Marionette	INFO	Listening on port 64950
+1639537646434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639537662373	Marionette	INFO	Stopped listening on port 64950
+[Parent 16868, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639538101351	geckodriver	INFO	Listening on 127.0.0.1:65302
+1639538104426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileyPun0h"
+1639538104692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileyPun0h\\search.json.mozlz4", (void 0)))
+1639538108225	Marionette	INFO	Listening on port 65310
+1639538108641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639538111885	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639538115916	Marionette	INFO	Stopped listening on port 65310
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639538117690	geckodriver	INFO	Listening on 127.0.0.1:65352
+1639538120726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilezGnnO0"
+1639538121015	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilezGnnO0\\search.json.mozlz4", (void 0)))
+1639538124861	Marionette	INFO	Listening on port 65361
+1639538125906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639538138095	Marionette	INFO	Stopped listening on port 65361
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+oundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilemwBpAx\\search.json.mozlz4", (void 0)))
+1639538133326	Marionette	INFO	Listening on port 65398
+1639538134438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639538136705	Marionette	INFO	Stopped listening on port 65398
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:186:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+[Parent 12016, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639538542080	geckodriver	INFO	Listening on 127.0.0.1:49376
+1639538545134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileqDtskv"
+1639538545523	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileqDtskv\\search.json.mozlz4", (void 0)))
+1639538549401	Marionette	INFO	Listening on port 49384
+1639538549920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639538553438	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639538557470	Marionette	INFO	Stopped listening on port 49384
+[Parent 21728, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639538559416	geckodriver	INFO	Listening on 127.0.0.1:49431
+1639538562471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofile6w84Ph"
+1639538562850	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofile6w84Ph\\search.json.mozlz4", (void 0)))
+1639538566481	Marionette	INFO	Listening on port 49440
+1639538567413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639538570622	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639538577261	Marionette	INFO	Stopped listening on port 49440
+[Parent 19980, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639538579244	geckodriver	INFO	Listening on 127.0.0.1:49508
+1639538582340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilep7ZPju"
+1639538582925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilep7ZPju\\search.json.mozlz4", (void 0)))
+1639538586944	Marionette	INFO	Listening on port 49517
+1639538587412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639538590355	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639538605105	Marionette	INFO	Stopped listening on port 49517
+[Parent 18984, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1639538606866	geckodriver	INFO	Listening on 127.0.0.1:49588
+1639538609947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileeueQDV"
+1639538610346	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofileeueQDV\\search.json.mozlz4", (void 0)))
+1639538613723	Marionette	INFO	Listening on port 49597
+1639538614389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639538617646	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639538624037	Marionette	INFO	Stopped listening on port 49597
+[Parent 15580, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639538625334	geckodriver	INFO	Listening on 127.0.0.1:49661
+1639538628423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilelo6ynA"
+1639538628725	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xyy\\AppData\\Local\\Temp\\rust_mozprofilelo6ynA\\search.json.mozlz4", (void 0)))
+1639538632589	Marionette	INFO	Listening on port 49674
+1639538632649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639538648696	Marionette	INFO	Stopped listening on port 49674
+[Parent 16788, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1640093224928	geckodriver	INFO	Listening on 127.0.0.1:51372
+1640093227966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileqtl8PD"
+1640093228198	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileqtl8PD\\search.json.mozlz4", (void 0)))
+1640093229083	Marionette	INFO	Listening on port 51383
+1640093229518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640093232505	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1640093236734	Marionette	INFO	Stopped listening on port 51383
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640093237309	geckodriver	INFO	Listening on 127.0.0.1:51434
+1640093240363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilez4O3CR"
+1640093240582	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilez4O3CR\\search.json.mozlz4", (void 0)))
+1640093241508	Marionette	INFO	Listening on port 51442
+1640093241905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640093357750	Marionette	INFO	Stopped listening on port 51442
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileZ4H2B7\\search.json.mozlz4", (void 0)))
+1640093246315	Marionette	INFO	Listening on port 51488
+1640093246770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640093249503	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1640093263722	Marionette	INFO	Stopped listening on port 51488
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640093264291	geckodriver	INFO	Listening on 127.0.0.1:51571
+1640093267335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileQc4qs8"
+1640093267552	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileQc4qs8\\search.json.mozlz4", (void 0)))
+1640093268376	Marionette	INFO	Listening on port 51579
+1640093268874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640093271014	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1640093277878	Marionette	INFO	Stopped listening on port 51579
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640093278422	geckodriver	INFO	Listening on 127.0.0.1:51645
+1640093281470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilegzdNWa"
+1640093281687	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilegzdNWa\\search.json.mozlz4", (void 0)))
+1640093282504	Marionette	INFO	Listening on port 51653
+1640093283003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640093289228	Marionette	INFO	Stopped listening on port 51653
+[Parent 10604, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640093586000	geckodriver	INFO	Listening on 127.0.0.1:51739
+1640093589045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilenyHm6p"
+1640093589267	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilenyHm6p\\search.json.mozlz4", (void 0)))
+1640093590149	Marionette	INFO	Listening on port 51750
+1640093590589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640093597993	Marionette	INFO	Stopped listening on port 51750
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640093598556	geckodriver	INFO	Listening on 127.0.0.1:51800
+1640093601586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileD7LKSN"
+1640093601800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileD7LKSN\\search.json.mozlz4", (void 0)))
+1640093602650	Marionette	INFO	Listening on port 51808
+1640093603127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640093656455	Marionette	INFO	Stopped listening on port 51808
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileYklPij\\search.json.mozlz4", (void 0)))
+1640093607607	Marionette	INFO	Listening on port 51846
+1640093608003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640093609948	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1640093625083	Marionette	INFO	Stopped listening on port 51846
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640093625641	geckodriver	INFO	Listening on 127.0.0.1:51922
+1640093628666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileLQNKWr"
+1640093628884	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileLQNKWr\\search.json.mozlz4", (void 0)))
+1640093629813	Marionette	INFO	Listening on port 51934
+1640093630215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640093632752	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1640093639545	Marionette	INFO	Stopped listening on port 51934
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640093640071	geckodriver	INFO	Listening on 127.0.0.1:51994
+1640093643104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilegTJXg0"
+1640093643318	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilegTJXg0\\search.json.mozlz4", (void 0)))
+1640093644125	Marionette	INFO	Listening on port 52004
+1640093644639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=0daa74cdff5e194b7f86135a778267cc&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Geolocation,Geolocation,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640093650613	Marionette	INFO	Stopped listening on port 52004
+[Parent 2212, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640965331900	geckodriver	INFO	Listening on 127.0.0.1:53456
+1640965334956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileIeV5Z9"
+1640965335220	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofileIeV5Z9\\search.json.mozlz4", (void 0)))
+1640965336156	Marionette	INFO	Listening on port 53465
+1640965336506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640965338363	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1640965342539	Marionette	INFO	Stopped listening on port 53465
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640965343071	geckodriver	INFO	Listening on 127.0.0.1:53516
+1640965346117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile4dNLxY"
+1640965346333	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile4dNLxY\\search.json.mozlz4", (void 0)))
+1640965347126	Marionette	INFO	Listening on port 53524
+1640965347153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640965348662	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1640965352498	Marionette	INFO	Stopped listening on port 53524
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640965352989	geckodriver	INFO	Listening on 127.0.0.1:53579
+1640965356061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilelIpkPB"
+1640965356279	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofilelIpkPB\\search.json.mozlz4", (void 0)))
+1640965357086	Marionette	INFO	Listening on port 53587
+1640965357585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640965357884	geckodriver	INFO	Listening on 127.0.0.1:53612
+1640965360932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile3EexSI"
+1640965361150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\xy\\AppData\\Local\\Temp\\rust_mozprofile3EexSI\\search.json.mozlz4", (void 0)))
+1640965361965	Marionette	INFO	Listening on port 53626
+1640965362455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640965366012	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
