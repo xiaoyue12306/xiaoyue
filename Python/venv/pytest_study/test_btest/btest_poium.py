@@ -32,4 +32,5 @@ elem_xpath = PageElement(xpath='//*[@id="kk"]')
 elem_css = PageElement(css='#id')
 test git
 test git 2
+pycharm git test
 '''
