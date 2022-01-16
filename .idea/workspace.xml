@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e112f549-f68d-482b-b49a-57e4d961d221" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python/venv/pytest_study/test_btest/btest_poium.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/venv/pytest_study/test_btest/btest_poium.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642317029305</updated>
       <workItem from="1642317031270" duration="921000" />
+      <workItem from="1642318901085" duration="626000" />
     </task>
     <servers />
   </component>
