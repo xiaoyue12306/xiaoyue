@@ -20,3 +20,5 @@ print(r.raw.read(10))
 # r = requests.get('https://httpbin.org/get', params=payload2)
 # pprint(r.url)
 
+
+#post
