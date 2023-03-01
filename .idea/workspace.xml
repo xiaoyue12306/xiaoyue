@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e112f549-f68d-482b-b49a-57e4d961d221" name="Default Changelist" comment="requests_study.py中添加了一点点">
-      <change afterPath="$PROJECT_DIR$/Python/venv/xgx_xmlcb/lcb.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/venv/unittest_study/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Python/venv/unittest_study/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/venv/unittest_study/test_case/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Python/venv/unittest_study/test_case/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +36,9 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.lcb">
+  <component name="RunManager" selected="Python.run_test (1)">
     <configuration name="lcb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Git" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="requests_study" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="run_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,12 +91,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/venv/Port" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/venv/unittest_study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/venv/Port/requests_study.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/venv/unittest_study/run_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="run_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,12 +113,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/venv/pytest_study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/venv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/venv/pytest_study/run_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/venv/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,12 +127,12 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_btest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_btest.TestLogin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/venv/pytest_study/test_btest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/venv/unittest_study/test_case" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -138,17 +140,17 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Python/venv/pytest_study/test_btest/test_btest.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_btest.TestLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run_test (1)" />
+        <item itemvalue="Python tests.pytest for test_btest.TestLogin" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.lcb" />
         <item itemvalue="Python.mail" />
-        <item itemvalue="Python.requests_study" />
-        <item itemvalue="Python.run_test" />
-        <item itemvalue="Python tests.pytest in test_btest.py" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +174,8 @@
       <workItem from="1675738519206" duration="1740000" />
       <workItem from="1675932074731" duration="5564000" />
       <workItem from="1677136602062" duration="619000" />
-      <workItem from="1677204198295" duration="2416000" />
+      <workItem from="1677204198295" duration="7420000" />
+      <workItem from="1677637887094" duration="6782000" />
     </task>
     <task id="LOCAL-00001" summary="poium中添加了pycharm git test">
       <created>1642321246817</created>
@@ -237,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646400965055</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="requests_study.py中添加了一点点">
+      <created>1677220245993</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677220245993</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,8 +302,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Git$pytest_for_test_btest_test_a.coverage" NAME="pytest for test_btest.test_a Coverage Results" MODIFIED="1642324408680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/venv/pytest_study/test_btest" />
+    <SUITE FILE_PATH="coverage/Git$pytest_for_test_btest_TestLogin.coverage" NAME="pytest for test_btest.TestLogin Coverage Results" MODIFIED="1677644764522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/venv/unittest_study/test_case" />
+    <SUITE FILE_PATH="coverage/Git$run_test__1_.coverage" NAME="run_test (1) Coverage Results" MODIFIED="1677645427990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/venv/unittest_study" />
     <SUITE FILE_PATH="coverage/Git$run_test.coverage" NAME="run_test Coverage Results" MODIFIED="1642324683941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/venv/pytest_study" />
     <SUITE FILE_PATH="coverage/Git$pytest_in_test_btest_py.coverage" NAME="pytest in test_btest.py Coverage Results" MODIFIED="1642324467139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/venv/pytest_study/test_btest" />
+    <SUITE FILE_PATH="coverage/Git$test.coverage" NAME="test Coverage Results" MODIFIED="1677224958304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/venv" />
     <SUITE FILE_PATH="coverage/Git$requests_study.coverage" NAME="requests_study Coverage Results" MODIFIED="1646400550375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/venv/Port" />
     <SUITE FILE_PATH="coverage/Git$mail.coverage" NAME="mail Coverage Results" MODIFIED="1675741477893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/venv/unittest_study" />
     <SUITE FILE_PATH="coverage/Git$lcb.coverage" NAME="lcb Coverage Results" MODIFIED="1675949788051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/venv/xgx_xmlcb" />
