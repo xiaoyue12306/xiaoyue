@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e112f549-f68d-482b-b49a-57e4d961d221" name="Default Changelist" comment="requests_study.py中添加了一点点">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/venv/unittest_study/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Python/venv/unittest_study/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/venv/unittest_study/test_case/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Python/venv/unittest_study/test_case/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
-    </list>
+    <list default="true" id="e112f549-f68d-482b-b49a-57e4d961d221" name="Default Changelist" comment="redme 添加xiaoyueyue2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -283,7 +278,19 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
